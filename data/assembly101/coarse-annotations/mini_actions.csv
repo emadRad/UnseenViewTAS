@@ -1,0 +1,97 @@
+,verb_id,noun_id,action_cls,verb_cls,noun_cls,action_id
+0,0,10,attach arm,attach,arm,0
+1,0,11,attach arm connector,attach,arm connector,1
+2,0,8,attach base,attach,base,2
+3,0,51,attach blade,attach,blade,3
+4,0,6,attach body,attach,body,4
+5,0,12,attach bucket,attach,bucket,5
+6,0,7,attach bumper,attach,bumper,6
+7,0,0,attach cabin,attach,cabin,7
+8,0,41,attach cabin window,attach,cabin window,8
+9,0,1,attach chassis,attach,chassis,9
+10,0,55,attach clamp,attach,clamp,10
+11,0,35,attach clamp arm,attach,clamp arm,11
+12,0,23,attach crane arm,attach,crane arm,12
+13,0,17,attach excavator arm,attach,excavator arm,13
+14,0,37,attach hook,attach,hook,14
+15,0,2,attach interior,attach,interior,15
+16,0,47,attach jackhammer,attach,jackhammer,16
+17,0,38,attach jackhammer arm,attach,jackhammer arm,17
+18,0,15,attach light,attach,light,18
+19,0,40,attach push frame,attach,push frame,19
+20,0,26,attach roller,attach,roller,20
+21,0,34,attach roller arm,attach,roller arm,21
+22,0,5,attach roof,attach,roof,22
+23,0,27,attach sound module,attach,sound module,23
+24,0,18,attach step,attach,step,24
+25,0,28,attach strap,attach,strap,25
+26,0,19,attach track,attach,track,26
+27,0,21,attach turntable base,attach,turntable base,27
+28,0,24,attach turntable top,attach,turntable top,28
+29,0,3,attach wheel,attach,wheel,29
+30,5,10,attempt to attach arm,attempt to attach,arm,30
+31,5,11,attempt to attach arm connector,attempt to attach,arm connector,31
+32,5,6,attempt to attach body,attempt to attach,body,32
+33,5,12,attempt to attach bucket,attempt to attach,bucket,33
+34,5,33,attempt to attach bulldozer arm,attempt to attach,bulldozer arm,34
+35,5,7,attempt to attach bumper,attempt to attach,bumper,35
+36,5,0,attempt to attach cabin,attempt to attach,cabin,36
+37,5,17,attempt to attach excavator arm,attempt to attach,excavator arm,37
+38,5,2,attempt to attach interior,attempt to attach,interior,38
+39,5,5,attempt to attach roof,attempt to attach,roof,39
+40,5,21,attempt to attach turntable base,attempt to attach,turntable base,40
+41,7,6,attempt to detach body,attempt to detach,body,41
+42,6,9,demonstrate functionality,demonstrate,functionality,42
+43,1,10,detach arm,detach,arm,43
+44,1,11,detach arm connector,detach,arm connector,44
+45,1,8,detach base,detach,base,45
+46,1,51,detach blade,detach,blade,46
+47,1,6,detach body,detach,body,47
+48,1,12,detach bucket,detach,bucket,48
+49,1,33,detach bulldozer arm,detach,bulldozer arm,49
+50,1,7,detach bumper,detach,bumper,50
+51,1,0,detach cabin,detach,cabin,51
+52,1,41,detach cabin window,detach,cabin window,52
+53,1,1,detach chassis,detach,chassis,53
+54,1,55,detach clamp,detach,clamp,54
+55,1,35,detach clamp arm,detach,clamp arm,55
+56,1,23,detach crane arm,detach,crane arm,56
+57,1,17,detach excavator arm,detach,excavator arm,57
+58,1,37,detach hook,detach,hook,58
+59,1,2,detach interior,detach,interior,59
+60,1,47,detach jackhammer,detach,jackhammer,60
+61,1,38,detach jackhammer arm,detach,jackhammer arm,61
+62,1,15,detach light,detach,light,62
+63,1,40,detach push frame,detach,push frame,63
+64,1,26,detach roller,detach,roller,64
+65,1,34,detach roller arm,detach,roller arm,65
+66,1,5,detach roof,detach,roof,66
+67,1,27,detach sound module,detach,sound module,67
+68,1,18,detach step,detach,step,68
+69,1,28,detach strap,detach,strap,69
+70,1,19,detach track,detach,track,70
+71,1,21,detach turntable base,detach,turntable base,71
+72,1,24,detach turntable top,detach,turntable top,72
+73,1,3,detach wheel,detach,wheel,73
+74,2,6,inspect body,inspect,body,74
+75,2,0,inspect cabin,inspect,cabin,75
+76,2,1,inspect chassis,inspect,chassis,76
+77,2,4,inspect toy,inspect,toy,77
+78,4,10,screw arm,screw,arm,78
+79,4,11,screw arm connector,screw,arm connector,79
+80,4,8,screw base,screw,base,80
+81,4,6,screw body,screw,body,81
+82,4,1,screw chassis,screw,chassis,82
+83,4,2,screw interior,screw,interior,83
+84,4,26,screw roller,screw,roller,84
+85,4,5,screw roof,screw,roof,85
+86,4,3,screw wheel,screw,wheel,86
+87,3,10,unscrew arm,unscrew,arm,87
+88,3,11,unscrew arm connector,unscrew,arm connector,88
+89,3,6,unscrew body,unscrew,body,89
+90,3,12,unscrew bucket,unscrew,bucket,90
+91,3,0,unscrew cabin,unscrew,cabin,91
+92,3,1,unscrew chassis,unscrew,chassis,92
+93,3,37,unscrew hook,unscrew,hook,93
+94,3,2,unscrew interior,unscrew,interior,94
+95,3,26,unscrew roller,unscrew,roller,95

@@ -1,0 +1,12 @@
+000003910	000004020	attach body	
+000004020	000004319	screw chassis	
+000004319	000005499	attach wheel	
+000005499	000005695	attach interior	
+000005695	000006755	attach cabin	
+000006755	000006829	attempt to attach arm connector	
+000006829	000007178	attach roof	
+000007178	000007412	attempt to attach arm connector	
+000007412	000007846	attach roller	
+000007846	000008240	attach arm connector	
+000008240	000008669	attach roller arm	
+000008669	000008995	demonstrate functionality	

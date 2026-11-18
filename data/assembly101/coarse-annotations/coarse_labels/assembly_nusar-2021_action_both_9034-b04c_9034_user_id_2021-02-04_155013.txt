@@ -1,0 +1,14 @@
+000005263	000005361	attach interior	
+000005361	000005855	attach roof	
+000005855	000006183	attempt to attach cabin	
+000006183	000006307	attempt to attach body	
+000006307	000006519	attach bumper	
+000006519	000006831	attempt to attach body	
+000006831	000007013	attempt to attach cabin	
+000007013	000007249	attempt to attach body	
+000007249	000007706	attach bumper	
+000007706	000008427	attach cabin	
+000008427	000008988	attach jackhammer arm	
+000008988	000009395	screw chassis	
+000009395	000010863	attach wheel	
+000010863	000011714	screw roof	

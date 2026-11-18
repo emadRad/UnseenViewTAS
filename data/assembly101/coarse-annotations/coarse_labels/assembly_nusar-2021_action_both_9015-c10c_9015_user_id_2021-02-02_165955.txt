@@ -1,0 +1,35 @@
+000005311	000007673	attach water tank	
+000007673	000008391	attach roof	
+000008391	000008570	inspect toy	
+000008570	000009030	attempt to attach interior	
+000009030	000009248	inspect toy	
+000009248	000009556	attempt to attach interior	
+000009556	000009650	detach water tank	
+000009650	000011063	attach interior	
+000011063	000011121	attempt to attach cabin	
+000011121	000013699	attempt to attach water tank	
+000013699	000014101	detach interior	
+000014101	000014486	attempt to attach water tank	
+000014486	000014849	inspect toy	
+000014849	000015042	attempt to attach interior	
+000015042	000017159	attempt to attach water tank	
+000017159	000017634	detach roof	
+000017634	000017832	attempt to attach water tank	
+000017832	000017930	detach water tank	
+000017930	000018281	attempt to attach water tank	
+000018281	000018820	attach interior	
+000018820	000019455	attach water tank	
+000019455	000020392	attach roof	
+000020392	000020557	attempt to attach cabin	
+000020557	000020598	detach water tank	
+000020598	000020807	attach cabin	
+000020807	000021138	attempt to attach roof	
+000021138	000021821	attach light	
+000021821	000022733	attach roof	
+000022733	000023041	attach water tank	
+000023041	000023743	attach bumper	
+000023743	000024756	attach wheel	
+000024756	000024873	detach water tank	
+000024873	000025667	attach wheel	
+000025667	000027519	attach water tank	
+000027519	000027767	demonstrate functionality	

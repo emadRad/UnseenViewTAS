@@ -1,0 +1,15 @@
+000004033	000004080	attempt to attach base	
+000004080	000004674	attach excavator arm	
+000004674	000005706	attempt to attach base	
+000005706	000006192	detach excavator arm	
+000006192	000006822	attach turntable base	
+000006822	000007314	attach excavator arm	
+000007314	000007534	attach light	
+000007534	000007649	attach sound module	
+000007649	000008327	attach roof	
+000008327	000008479	attach interior	
+000008479	000009003	attach cabin	
+000009003	000009190	attach excavator arm	
+000009190	000009558	screw chassis	
+000009558	000010568	attach wheel	
+000010568	000010685	demonstrate functionality	

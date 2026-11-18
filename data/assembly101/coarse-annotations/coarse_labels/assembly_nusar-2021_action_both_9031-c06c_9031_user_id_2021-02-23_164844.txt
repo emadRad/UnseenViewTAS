@@ -1,0 +1,14 @@
+000006979	000008134	attach wheel	
+000008134	000008350	attach sound module	
+000008350	000008511	attach light	
+000008511	000009300	attach cabin	
+000009300	000010121	attach roof	
+000010121	000010492	attempt to attach turntable base	
+000010492	000011319	attach base	
+000011319	000011499	attach cabin	
+000011499	000011899	attempt to attach turntable base	
+000011899	000012033	unscrew base	
+000012033	000012502	attach turntable base	
+000012502	000013063	attach crane arm	
+000013063	000013579	screw chassis	
+000013579	000014153	demonstrate functionality	

@@ -1,0 +1,11 @@
+000005332	000006232	attach interior	
+000006232	000009938	attach wheel	
+000009938	000010220	inspect toy	
+000010220	000011184	attach cabin	
+000011184	000011401	attempt to attach turntable base	
+000011401	000011497	attempt to attach arm	
+000011497	000011799	attempt to attach bucket	
+000011799	000013081	attach arm	
+000013081	000013542	attach bucket	
+000013542	000014207	attach excavator arm	
+000014207	000014411	demonstrate functionality	

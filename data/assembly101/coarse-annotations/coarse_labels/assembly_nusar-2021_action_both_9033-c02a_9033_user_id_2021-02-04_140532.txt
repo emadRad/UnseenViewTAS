@@ -1,0 +1,34 @@
+000006988	000007257	inspect chassis	
+000007257	000007817	attach interior	
+000007817	000008419	screw chassis	
+000008419	000008736	detach interior	
+000008736	000009138	attach interior	
+000009138	000010039	screw chassis	
+000010039	000010355	attach body	
+000010355	000010749	screw chassis	
+000010749	000011184	attach cabin	
+000011184	000011601	inspect toy	
+000011601	000011864	unscrew body	
+000011864	000012105	attach body	
+000012105	000012615	screw chassis	
+000012615	000013443	attach roof	
+000013443	000014451	attach arm	
+000014451	000014658	attempt to attach excavator arm	
+000014658	000015729	attach arm connector	
+000015729	000016490	attempt to attach excavator arm	
+000016490	000016848	detach arm connector	
+000016848	000018532	attach arm connector	
+000018532	000019342	attempt to attach excavator arm	
+000019342	000019509	detach arm connector	
+000019509	000019835	detach arm	
+000019835	000020641	attach arm connector	
+000020641	000021476	attempt to attach arm	
+000021476	000021527	detach arm connector	
+000021527	000021795	attach arm connector	
+000021795	000021830	detach arm connector	
+000021830	000022234	attach arm connector	
+000022234	000023444	attach arm	
+000023444	000024401	attach excavator arm	
+000024401	000025738	attach bumper	
+000025738	000027434	attach wheel	
+000027434	000027577	demonstrate functionality	

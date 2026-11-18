@@ -1,0 +1,9 @@
+000000170	000000486	inspect toy	
+000000486	000000839	detach cabin	
+000000839	000001048	detach cabin window	
+000001048	000001399	detach bulldozer arm	
+000001399	000001699	attempt to attach arm connector	
+000001699	000003033	detach wheel	
+000003033	000003429	detach body	
+000003429	000003860	unscrew chassis	
+000003860	000004295	detach chassis	

@@ -1,0 +1,22 @@
+000006182	000007024	attach wheel	
+000007024	000007236	attach interior	
+000007236	000009114	attempt to screw chassis	
+000009114	000009414	detach interior	
+000009414	000009556	attach interior	
+000009556	000009813	attempt to screw chassis	
+000009813	000009907	detach interior	
+000009907	000009978	attach interior	
+000009978	000010603	screw chassis	
+000010603	000011044	screw roller	
+000011044	000011244	inspect toy	
+000011244	000011520	attempt to attach arm connector	
+000011520	000011803	attempt to attach cabin	
+000011803	000012273	attempt to attach arm	
+000012273	000012578	attach arm connector	
+000012578	000012792	attempt to attach arm	
+000012792	000012912	unscrew arm connector	
+000012912	000013442	attach arm	
+000013442	000014442	attach roller	
+000014442	000014728	attach cabin	
+000014728	000015226	attach roof	
+000015226	000015508	demonstrate functionality	

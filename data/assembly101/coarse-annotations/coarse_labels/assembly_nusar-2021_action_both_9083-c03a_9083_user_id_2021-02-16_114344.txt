@@ -1,0 +1,14 @@
+000003568	000003830	attach chassis	
+000003830	000004495	screw chassis	
+000004495	000004614	attempt to attach wheel	
+000004614	000004719	unscrew chassis	
+000004719	000005065	screw chassis	
+000005065	000007009	attach wheel	
+000007009	000007706	attach body	
+000007706	000007965	attach arm connector	
+000007965	000008058	attempt to attach excavator arm	
+000008058	000008086	detach arm connector	
+000008086	000008118	attach excavator arm	
+000008118	000008576	attach arm connector	
+000008576	000009119	attach cabin	
+000009119	000009295	demonstrate functionality	

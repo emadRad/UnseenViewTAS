@@ -1,0 +1,7 @@
+000002833	000003156	attach interior	
+000003156	000004607	attach wheel	
+000004607	000005151	attach turntable top	
+000005151	000005613	attach hook	
+000005613	000006110	attach crane arm	
+000006110	000006394	attach cabin	
+000006394	000006959	demonstrate functionality	

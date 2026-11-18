@@ -1,0 +1,4 @@
+000002820	000003461	attach cabin	
+000003461	000004195	attach dump bed	
+000004195	000005759	attach wheel	
+000005759	000005981	demonstrate functionality	

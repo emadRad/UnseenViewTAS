@@ -1,0 +1,9 @@
+000003626	000003757	attach cabin window	
+000003757	000004273	attach cabin	
+000004273	000004532	attach arm connector	
+000004532	000004656	attach jackhammer arm	
+000004656	000004677	detach arm connector	
+000004677	000004699	attach jackhammer arm	
+000004699	000005295	attach arm connector	
+000005295	000006794	attach wheel	
+000006794	000006962	demonstrate functionality	

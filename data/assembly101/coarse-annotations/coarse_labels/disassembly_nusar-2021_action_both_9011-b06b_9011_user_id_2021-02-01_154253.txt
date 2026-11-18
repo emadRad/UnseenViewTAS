@@ -1,0 +1,7 @@
+000000180	000000328	attempt to detach crane arm	
+000000328	000001304	detach wheel	
+000001304	000001575	detach cabin	
+000001575	000002038	detach crane arm	
+000002038	000002141	detach interior	
+000002141	000002511	detach turntable top	
+000002511	000002729	detach hook	

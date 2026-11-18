@@ -1,0 +1,20 @@
+000004655	000004835	inspect chassis	
+000004835	000005526	attach bumper	
+000005526	000006139	attach body	
+000006139	000006478	screw chassis	
+000006478	000006923	attach interior	
+000006923	000007402	attach cabin	
+000007402	000007738	attempt to attach arm connector	
+000007738	000007834	detach cabin	
+000007834	000007947	attach arm connector	
+000007947	000008253	attach interior	
+000008253	000008572	attach cabin	
+000008572	000009003	attempt to attach roller arm	
+000009003	000009192	detach arm connector	
+000009192	000010043	attach arm connector	
+000010043	000010864	attach roller arm	
+000010864	000011128	detach roller arm	
+000011128	000011721	attach roller arm	
+000011721	000012595	attach roof	
+000012595	000013823	attach wheel	
+000013823	000014065	demonstrate functionality	

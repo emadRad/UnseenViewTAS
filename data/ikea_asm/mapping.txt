@@ -1,0 +1,33 @@
+0-NA
+1-pick up leg
+2-pick up table top
+3-pick up shelf
+4-pick up side panel
+5-pick up front panel
+6-pick up back panel
+7-pick up bottom panel
+8-pick up pin
+9-lay down leg
+10-lay down table top
+11-lay down shelf
+12-lay down side panel
+13-lay down front panel
+14-lay down back panel
+15-lay down bottom panel
+16-push table top
+17-push table
+18-align leg screw with table thread
+19-spin leg
+20-tighten leg
+21-rotate table
+22-flip table top
+23-flip table
+24-flip shelf
+25-attach shelf to table
+26-align side panel holes with front panel dowels
+27-attach drawer side panel
+28-attach drawer back panel
+29-slide bottom of drawer
+30-insert drawer pin
+31-position the drawer right side up
+32-other

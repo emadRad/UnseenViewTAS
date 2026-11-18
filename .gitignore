@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+.idea/
+experiments/
+output/
+checkpoints/
+logs.txt
+data/assembly101/fine-grained-annotations
+.ipynb_checkpoints

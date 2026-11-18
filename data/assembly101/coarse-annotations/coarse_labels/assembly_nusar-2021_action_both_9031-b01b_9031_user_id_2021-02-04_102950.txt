@@ -1,0 +1,16 @@
+000008293	000008824	attach interior	
+000008824	000010342	attach wheel	
+000010342	000010610	attach push frame	
+000010610	000010890	screw roller	
+000010890	000011264	attempt to attach arm	
+000011264	000011856	attach arm connector	
+000011856	000013640	attach arm	
+000013640	000013703	detach arm connector	
+000013703	000014838	attempt to attach arm connector	
+000014838	000015544	attach arm	
+000015544	000015839	attach roller arm	
+000015839	000016635	attach arm connector	
+000016635	000016785	attach cabin	
+000016785	000017100	attach roof	
+000017100	000017318	screw interior	
+000017318	000017344	demonstrate functionality	

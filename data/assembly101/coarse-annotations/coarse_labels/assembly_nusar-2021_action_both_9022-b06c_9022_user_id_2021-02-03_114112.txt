@@ -1,0 +1,10 @@
+000005304	000006962	attach wheel	
+000006962	000007088	demonstrate functionality	
+000007088	000007965	attach interior	
+000007965	000008086	demonstrate functionality	
+000008086	000008933	screw wheel	
+000008933	000009686	attach arm	
+000009686	000010780	attach bucket	
+000010780	000011880	attach excavator arm	
+000011880	000012669	attach cabin	
+000012669	000013093	demonstrate functionality	

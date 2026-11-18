@@ -1,0 +1,8 @@
+000003493	000003886	screw chassis	
+000003886	000004276	attach body	
+000004276	000007032	attach wheel	
+000007032	000007329	attach bulldozer arm	
+000007329	000007700	attach arm connector	
+000007700	000007859	attach cabin window	
+000007859	000008534	attach cabin	
+000008534	000008720	demonstrate functionality	

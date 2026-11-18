@@ -1,0 +1,9 @@
+000004458	000004692	inspect chassis	
+000004692	000005275	attach body	
+000005275	000005434	attach excavator arm	
+000005434	000006031	attach arm connector	
+000006031	000006272	demonstrate functionality	
+000006272	000006680	attach cabin	
+000006680	000006817	inspect toy	
+000006817	000008487	attach wheel	
+000008487	000008656	demonstrate functionality	

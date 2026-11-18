@@ -1,0 +1,5595 @@
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+pick up leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+rotate table
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+spin leg
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table
+flip table

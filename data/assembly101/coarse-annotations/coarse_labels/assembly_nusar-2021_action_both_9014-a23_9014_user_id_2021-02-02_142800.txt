@@ -1,0 +1,15 @@
+000007048	000008638	attach wheel	
+000008638	000009041	attach engine	
+000009041	000009226	inspect toy	
+000009226	000009592	attach body	
+000009592	000009818	inspect toy	
+000009818	000010682	attach rocker panel	
+000010682	000010811	demonstrate functionality	
+000010811	000011009	screw rocker panel	
+000011009	000011189	demonstrate functionality	
+000011189	000011592	attach spoiler	
+000011592	000012096	attach bumper	
+000012096	000012214	demonstrate functionality	
+000012214	000012554	attach roof	
+000012554	000012915	attach engine cover	
+000012915	000013042	demonstrate functionality	
